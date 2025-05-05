@@ -1,0 +1,20 @@
+{
+  "job_id": 999,
+  "title": "Senior Python Developer",
+  "location": "Remote",
+  "department": "Engineering",
+  "salary_range": "$80k-$120k",
+  "company_profile": "A tech company specializing in AI",
+  "description": "We are hiring...",
+  "requirements": "5+ years experience",
+  "benefits": "Health, Dental, Stock",
+  "telecommuting": 1,
+  "has_company_logo": 1,
+  "has_questions": 0,
+  "employment_type": "Full-time",
+  "required_experience": "Mid-Senior level",
+  "required_education": "Bachelor's Degree",
+  "industry": "Information Technology",
+  "function": "Engineering",
+  "fraudulent": 0
+}

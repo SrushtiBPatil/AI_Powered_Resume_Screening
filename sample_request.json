@@ -1,0 +1,18 @@
+{
+  "title": "Customer Service Representative",
+  "location": "US, NY, New York",
+  "department": "Support",
+  "salary_range": "$50,000 - $60,000",
+  "company_profile": "Fast-growing tech support firm",
+  "description": "Answer customer queries and resolve issues.",
+  "requirements": "Good communication skills required.",
+  "benefits": "Health, 401K, and paid vacation.",
+  "telecommuting": 0,
+  "has_company_logo": 1,
+  "has_questions": 0,
+  "employment_type": "Full-time",
+  "required_experience": "Mid-Senior level",
+  "required_education": "Bachelor's Degree",
+  "industry": "Information Technology",
+  "function": "Customer Service"
+}
